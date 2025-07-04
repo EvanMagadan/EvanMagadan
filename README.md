@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kirito090605
+- 👋 Hi, I’m Evan Kasimir Yan Magadan
 - 👀 I’m interested in music and gaming
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on co-students
