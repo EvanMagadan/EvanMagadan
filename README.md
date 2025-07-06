@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on co-students
 - 📫 How to reach me evankasimimagadan@gmail.com
-- ⚡ Fun fact: ...
+
 
 <!---
 kirito090605/kirito090605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
