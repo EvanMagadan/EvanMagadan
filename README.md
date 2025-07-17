@@ -2,7 +2,7 @@
 - 👀 I’m interested in music and gaming
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on co-students
-- 📫 How to reach me evankasimimagadan@gmail.com
+- 📫 How to reach me evan.madagan@vsu.edu.ph
 
 
 <!---
