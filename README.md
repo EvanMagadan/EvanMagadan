@@ -4,8 +4,6 @@
 
 <h2 align="center">Hi! My name is <strong>Evan</strong> 😄</h2>
 
-<hr>
-
 - 👋 Hi, I’m **Evan Kasimir Yan Magadan**
 - 👀 I’m interested in **music**, **gaming**, and **coding**
 - 🌱 I’m currently learning at **[Visayas State University (VSU)](https://www.vsu.edu.ph)**
