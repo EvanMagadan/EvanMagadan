@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Evan Kasimir Yan Magadan
-- 👀 I’m interested in music and gaming
-- 🌱 I’m currently learning coding
+- 👀 I’m interested in music, gaming and coding
+- 🌱 I’m currently learning @VSU
 - 💞️ I’m looking to collaborate on co-students
 - 📫 How to reach me evan.madagan@vsu.edu.ph
 
