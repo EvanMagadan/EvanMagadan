@@ -15,7 +15,7 @@
 - 🎓 **Student** passionate about technology, coding, and continuous learning  
 - 🌱 I’m currently learning at **[Visayas State University (VSU)](https://www.vsu.edu.ph)**
 - 🤝 I’m looking to collaborate with **fellow students**
-- 📫 Reach me at **evan.magadan@vsu.edu.ph**
+- 📫 Reach me at **evan.madagan@vsu.edu.ph**
 - 🚀 Always up for a challenge and open to collaborations!
 
 ---
